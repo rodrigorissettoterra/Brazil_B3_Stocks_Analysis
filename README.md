@@ -266,5 +266,5 @@ This project is intended for **educational, analytical, and portfolio purposes o
 
 Data & AI professional with a multidisciplinary background in Data Science, Analytics Engineering, Artificial Intelligence, technology, and quantitative problem solving.
 
-- GitHub: [@rodrigorissettoterra](https://github.com/rodrigorissettoterra)
+- GitHub: [Rodrigo Terra](https://github.com/rodrigorissettoterra)
 - LinkedIn: [Rodrigo Terra](https://www.linkedin.com/in/rodrigo-rissetto-terra/)
